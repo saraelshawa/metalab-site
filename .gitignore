@@ -3,3 +3,8 @@ public/*
 blogdown/*
 resources/*
 .Rproj.user
+content/dataset/*
+.Rhistory
+static/rmarkdown-libs/*
+static/explore/*
+static/report/*
